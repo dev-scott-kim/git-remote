@@ -1,1 +1,1 @@
-function deletecart()
+function deleteCart()
